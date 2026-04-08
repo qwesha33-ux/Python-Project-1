@@ -1,1 +1,2 @@
 # Python-Project-1
+Stuyvesant High School significantly outperforms the NYC average in Regent’s exam scores, with mean scores over 20 points higher and the highest-performing borough, Manhattan, by over 15–20 points in mean Regents scores. The overall distribution shows most schools cluster near passing levels, while Stuyvesant is an extreme high-performing outlier. Borough-level analysis shows clear disparities, with Manhattan performing best and the Bronx lowest. . Overall, the data reveals substantial inequality in student performance across NYC schools.
